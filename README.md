@@ -1,4 +1,4 @@
-Predictive modeling of historical fine dust data in South Korea
+#### Predictive modeling of historical fine dust data in South Korea
 Fine dust and other sources of air pollution impose a significant toll on human health, often perceived as the inevitable cost of economic prosperity. This project will utilize historical data of fine dust (PM10) concentrations, as recorded by the Suwon weather station (station number 119), to explore the following questions:
 
 Are there significant trends such as yearly and seasonal in measured fine dust concentration?
